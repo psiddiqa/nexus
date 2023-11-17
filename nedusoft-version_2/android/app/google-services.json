@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297591671851",
+    "project_id": "nedusoft-edtech",
+    "storage_bucket": "nedusoft-edtech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297591671851:android:81dc4b041f64df6ade2e6e",
+        "android_client_info": {
+          "package_name": "com.edtech.nedusoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297591671851-qsj8fvdrpiit4mspnfmn1bm81of7jnvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzaBS4hWIsOlppQY5XHXTmVC7B8k4XWsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297591671851-qsj8fvdrpiit4mspnfmn1bm81of7jnvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
